@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sameer-Dangol
 - 👀 I’m interested in Genomic Data Science and Bioinformatics.
 - 🌱 I’m currently learning R and Python, and their implications in Biology and Machine Learning.
-- 💞️ I’m looking to collaborate on Bioinformatics projects especially Differential Expression Analysis, Molecular Phylogenetics, 
-Probabilistic Graphical Models and other Bioinformatics Algorithms
+- 💞️ I’m looking to collaborate on projects especially Differential Expression Analysis, Molecular Phylogenetics, Probabilistic Graphical Models and other Bioinformatics Algorithms
 - 📫 How to reach me ... https://www.linkedin.com/in/sameer-dangol-2aab6a158/
 
 <!---
